@@ -1,0 +1,237 @@
+Season,Episode,Overall Episode,Title,Air Date,Director,Writers,US Viewers (Millions),IMDb Rating,IMDb Votes,Runtime (Minutes),Production Code,Nielsen Rank,Share Percentage,18-49 Demographics,Critics Score,Audience Score,Emmy Nominations,Emmy Wins,Guest Stars,Special Episode,Clip Show,Bottle Episode,Multi-Part,Budget Tier
+1,1,1,"The Pilot",1994-09-22,"James Burrows","David Crane, Marta Kauffman",21.5,8.3,37395,22,456651,25,16.0,7.3,75,86,0,0,"Brad Pitt, Julia Roberts, Christina Applegate",Season Premiere,No,No,No,Medium
+1,2,2,"The One with the Sonogram at the End",1994-09-29,"James Burrows","David Crane, Marta Kauffman",20.2,8,33854,22,456652,31,17.5,21.3,94,95,0,0,"Bruce Willis, Alec Baldwin",Holiday Special,No,No,No,Medium
+1,3,3,"The One with the Thumb",1994-10-06,"James Burrows","Jeffrey Astrof, Mike Sikowitz",19.5,7.8,14308,22,456653,45,16.4,5.4,74,71,2,0,"Bruce Willis, Christina Applegate",Regular,No,No,No,Low
+1,4,4,"The One with George Stephanopoulos",1994-10-13,"James Burrows","Alexa Junge",19.7,8.1,26261,22,456654,14,31.2,14.7,75,75,0,0,"None",Regular,No,No,No,Low
+1,5,5,"The One with the East German Laundry Detergent",1994-10-20,"Pamela Fryman","Jeff Greenstein, Jeff Strauss",18.6,7.9,59258,22,456655,11,36.3,15.5,95,78,0,0,"None",Regular,No,No,No,Low
+1,6,6,"The One with the Butt",1994-10-27,"Arlene Sanford","Adam Chase, Ira Ungerleider",18.2,7.7,40028,22,456656,16,21.9,11.9,65,77,0,0,"Christina Applegate",Regular,No,Yes,No,Medium
+1,7,7,"The One with the Blackout",1994-11-03,"James Burrows","Jeffrey Astrof, Mike Sikowitz",23.5,9,52809,22,456657,33,28.2,12.5,80,94,0,0,"Danny DeVito, Reese Witherspoon, Sean Penn",Holiday Special,No,No,Yes,Medium
+1,8,8,"The One Where Nana Dies Twice",1994-11-10,"James Burrows","Marta Kauffman, David Crane",21.1,8.2,48166,22,456658,31,17.4,21.1,88,83,0,0,"Alec Baldwin, Danny DeVito, Gary Oldman",Regular,No,Yes,No,Low
+1,9,9,"The One Where Underdog Gets Away",1994-11-17,"James Burrows","Jeffrey Astrof, Mike Sikowitz",20.8,8.4,56611,22,456659,20,12.1,13.6,94,71,0,0,"None",Regular,No,No,No,Medium
+1,10,10,"The One with the Monkey",1994-12-15,"Peter Bonerz","Adam Chase, Ira Ungerleider",19.9,8.1,59931,22,456660,43,28.7,7.4,62,81,2,0,"None",Regular,No,No,No,Medium
+1,11,11,"The One with Ross's New Girlfriend",1995-09-21,"Michael Lembeck","Jeffrey Astrof, Mike Sikowitz",32.1,8.2,49944,22,457276,42,28.1,6.1,81,81,0,0,"None",Regular,No,Yes,No,Medium
+1,12,12,"The One with the Princess Leia Fantasy",1996-09-19,"Gail Mancuso","Michael Curtis, Gregory S. Malins",26.8,7.8,24865,22,468201,42,13.3,20.6,91,96,0,0,"None",Regular,No,No,No,Medium
+1,13,13,"The One with the Jellyfish",1997-09-25,"Shelley Jensen","Wil Calhoun",29.4,9.1,52054,22,468601,18,39.0,16.1,67,79,0,0,"None",Holiday Special,No,No,No,Medium
+1,14,14,"The One After Ross Says Rachel",1998-09-24,"Kevin S. Bright","Seth Kurland",31.1,9,38430,22,467668,45,15.6,16.4,89,86,0,0,"None",Regular,No,No,No,Medium
+1,15,15,"The One After Vegas",1999-09-23,"Kevin S. Bright","Adam Chase",27.7,8.4,54333,22,225551,13,16.2,15.1,82,82,0,0,"None",Regular,No,No,No,Medium
+1,16,16,"The One with Monica's Thunder",2000-10-12,"Kevin S. Bright","Doty Abrams",26.5,8.5,18545,22,226401,16,28.3,16.1,96,81,0,0,"None",Regular,No,Yes,No,Low
+1,17,17,"The One After I Do",2001-09-27,"Kevin S. Bright","David Crane, Marta Kauffman",31.7,8.8,20904,22,227551,23,15.6,8.1,61,81,0,0,"None",Regular,No,Yes,No,Medium
+1,18,18,"The One Where No One Proposes",2002-09-26,"Kevin S. Bright","David Crane, Marta Kauffman",34,9.2,43542,22,176251,36,12.1,13.0,90,95,0,0,"None",Regular,No,Yes,Yes,Low
+1,19,19,"The One After Joey and Rachel Kiss",2003-09-25,"Kevin S. Bright","David Crane, Marta Kauffman",24.5,8.3,33409,22,176401,12,30.4,11.4,81,80,0,0,"None",Regular,No,No,No,High
+1,20,20,"The Last One (Part 1)",2004-05-06,"Kevin S. Bright","Marta Kauffman, David Crane",52.5,9.7,11682,42,176418,24,30.6,19.1,63,95,0,1,"None",Regular,No,No,No,Medium
+1,21,21,"The Last One (Part 2)",2004-05-06,"Kevin S. Bright","Marta Kauffman, David Crane",52.5,9.8,48400,42,176419,48,24.4,6.6,94,95,0,0,"None",Regular,No,No,No,Low
+1,22,22,"The One with Episode 22",1994-03-29,"Michael Lembeck","Ira Ungerleider",17.9,8.8,12216,22,456672,2,19.9,9.3,63,89,1,0,"None",Regular,No,No,No,High
+1,23,23,"The One with Episode 23",1994-03-36,"Kevin S. Bright","Jeff Greenstein, Mike Sikowitz",19.8,7.8,45930,22,456673,29,23.9,6.6,82,92,0,0,"None",Regular,No,No,No,Low
+1,24,24,"The One with Episode 24",1994-03-43,"James Burrows","Jeff Strauss, Marta Kauffman",23.4,7.6,54786,42,456674,12,23.4,16.2,78,93,0,0,"None",Season Finale,No,No,No,Medium
+2,1,25,"The One with Episode 25",1995-09-22,"James Burrows","Mike Sikowitz",34.6,9.0,25293,22,457651,37,16.1,13.0,82,85,0,0,"None",Season Premiere,No,No,No,Low
+2,2,26,"The One with Episode 26",1995-09-29,"Gail Mancuso","Gregory S. Malins",30.0,8.7,42119,22,457652,47,33.1,18.2,77,82,0,0,"Bruce Willis, Danny DeVito",Regular,No,No,No,Medium
+2,3,27,"The One with Episode 27",1995-09-36,"Arlene Sanford","Jeff Strauss",30.3,8.5,48977,22,457653,31,14.2,5.8,95,93,3,0,"None",Regular,No,No,No,Low
+2,4,28,"The One with Episode 28",1995-09-43,"James Burrows","Adam Chase",33.5,8.1,15925,22,457654,40,35.0,14.9,76,83,0,0,"Christina Applegate, Brad Pitt",Regular,No,No,No,Low
+2,5,29,"The One with Episode 29",1995-10-22,"Peter Bonerz","Jeff Strauss",31.4,8.3,46599,22,457655,16,36.2,10.1,87,79,1,0,"Sean Penn",Regular,No,No,No,Medium
+2,6,30,"The One with Episode 30",1995-10-29,"Shelley Jensen","Jeff Greenstein",31.9,8.2,42250,22,457656,29,36.7,20.1,69,91,0,0,"Christina Applegate, Reese Witherspoon, Julia Roberts",Regular,No,Yes,No,Low
+2,7,31,"The One with Episode 31",1995-10-36,"Pamela Fryman","Jeffrey Astrof",29.1,8.3,10752,22,457657,19,38.6,13.2,60,83,0,1,"None",Regular,No,No,No,Low
+2,8,32,"The One with Episode 32",1995-10-43,"Arlene Sanford","Mike Sikowitz",31.7,8.3,26415,22,457658,10,14.6,14.7,95,91,0,0,"None",Regular,No,No,No,Medium
+2,9,33,"The One with Episode 33",1995-11-22,"Gail Mancuso","David Crane",33.4,7.8,27460,22,457659,45,16.3,22.6,82,86,0,0,"Christina Applegate",Regular,No,No,No,Low
+2,10,34,"The One with Episode 34",1995-11-29,"James Burrows","Jeff Strauss",25.1,7.7,53083,22,457660,41,29.4,8.0,80,71,0,0,"Alec Baldwin",Regular,No,Yes,No,Low
+2,11,35,"The One with Episode 35",1995-11-36,"Kevin S. Bright","Jeff Strauss",33.4,8.9,25781,22,457661,15,25.0,16.5,90,79,0,0,"None",Regular,No,No,No,Low
+2,12,36,"The One with Episode 36",1995-11-43,"James Burrows","Ira Ungerleider, Mike Sikowitz",28.5,8.6,48289,22,457662,35,21.4,18.0,70,76,0,0,"Danny DeVito, Gary Oldman",Regular,No,No,No,High
+2,13,37,"The One with Episode 37",1995-01-22,"Kevin S. Bright","Ira Ungerleider",31.7,7.8,40523,22,457663,48,19.2,20.7,84,92,0,0,"None",Regular,No,No,No,Medium
+2,14,38,"The One with Episode 38",1995-01-29,"Pamela Fryman","Jeff Strauss, Jeffrey Astrof",32.9,8.8,58370,22,457664,39,17.5,8.0,73,84,0,0,"Reese Witherspoon, Christina Applegate",Regular,No,Yes,Yes,High
+2,15,39,"The One with Episode 39",1995-01-36,"Gail Mancuso","Alexa Junge, Jeff Strauss",32.9,8.9,45073,22,457665,35,38.4,12.9,65,77,0,0,"None",Regular,No,No,No,Medium
+2,16,40,"The One with Episode 40",1995-01-43,"Michael Lembeck","Alexa Junge",27.3,8.9,26188,22,457666,35,36.0,9.6,98,93,0,0,"None",Regular,No,Yes,No,Low
+2,17,41,"The One with Episode 41",1995-02-22,"Gary Halvorson","Ira Ungerleider",27.5,8.6,34321,22,457667,42,13.6,6.6,88,79,0,0,"Alec Baldwin",Regular,No,No,No,Medium
+2,18,42,"The One with Episode 42",1995-02-29,"Arlene Sanford","Marta Kauffman, Ira Ungerleider",26.7,8.6,24587,22,457668,41,23.5,19.5,87,79,0,0,"None",Regular,No,No,No,Medium
+2,19,43,"The One with Episode 43",1995-02-36,"Pamela Fryman","Alexa Junge",28.9,7.9,10087,22,457669,25,24.4,16.4,76,85,0,0,"Sean Penn, Gary Oldman",Regular,No,No,No,Low
+2,20,44,"The One with Episode 44",1995-02-43,"Peter Bonerz","Adam Chase",26.0,8.5,19501,22,457670,35,37.1,22.7,90,82,0,0,"Reese Witherspoon",Regular,No,No,No,Low
+2,21,45,"The One with Episode 45",1995-03-22,"Kevin S. Bright","David Crane",26.2,7.9,40587,22,457671,7,31.6,24.2,95,87,0,0,"None",Regular,No,No,No,High
+2,22,46,"The One with Episode 46",1995-03-29,"James Burrows","Ira Ungerleider",28.5,8.1,41219,22,457672,34,13.6,6.0,96,99,0,0,"None",Regular,No,No,No,Medium
+2,23,47,"The One with Episode 47",1995-03-36,"Gail Mancuso","Marta Kauffman",28.3,7.8,46210,22,457673,31,30.7,20.0,62,80,1,0,"None",Regular,No,No,No,High
+2,24,48,"The One with Episode 48",1995-03-43,"Michael Lembeck","Marta Kauffman",25.3,8.9,39007,22,457674,19,32.4,22.6,79,96,0,0,"None",Season Finale,No,No,No,Medium
+3,1,49,"The One with Episode 49",1996-09-22,"Kevin S. Bright","Gregory S. Malins, Ira Ungerleider",30.2,8.5,50629,22,458651,20,38.3,6.4,95,93,3,0,"None",Season Premiere,No,No,No,High
+3,2,50,"The One with Episode 50",1996-09-29,"Shelley Jensen","Gregory S. Malins",26.6,7.9,47853,22,458652,30,13.8,12.5,90,94,0,1,"None",Regular,No,No,No,Low
+3,3,51,"The One with Episode 51",1996-09-36,"Gail Mancuso","Jeff Strauss",25.1,7.6,37300,22,458653,10,38.7,19.4,88,90,0,0,"None",Regular,No,No,No,Medium
+3,4,52,"The One with Episode 52",1996-09-43,"Shelley Jensen","Alexa Junge",24.4,8.5,13817,22,458654,50,39.5,19.7,72,72,0,0,"None",Regular,No,No,No,Medium
+3,5,53,"The One with Episode 53",1996-10-22,"Peter Bonerz","Mike Sikowitz",23.7,7.9,24880,22,458655,9,16.6,18.6,64,81,0,0,"None",Regular,No,No,No,Low
+3,6,54,"The One with Episode 54",1996-10-29,"Arlene Sanford","David Crane, Jeff Strauss",27.1,8.0,31044,22,458656,29,36.3,21.5,91,73,0,0,"Bruce Willis, Danny DeVito, Brad Pitt",Regular,No,No,No,Medium
+3,7,55,"The One with Episode 55",1996-10-36,"James Burrows","Mike Sikowitz",29.7,7.9,47098,22,458657,46,31.8,20.9,97,71,2,0,"None",Regular,Yes,No,No,Medium
+3,8,56,"The One with Episode 56",1996-10-43,"Gary Halvorson","Mike Sikowitz",21.1,8.7,47205,22,458658,22,33.1,7.5,71,84,0,0,"Alec Baldwin",Regular,No,No,No,Medium
+3,9,57,"The One with Episode 57",1996-11-22,"Shelley Jensen","Jeff Greenstein",27.6,8.6,53137,22,458659,31,21.7,18.3,91,83,0,0,"None",Regular,Yes,No,No,Low
+3,10,58,"The One with Episode 58",1996-11-29,"Gail Mancuso","Jeff Strauss",24.8,8.0,44600,22,458660,37,23.9,20.9,77,99,0,0,"Sean Penn",Regular,No,No,No,Medium
+3,11,59,"The One with Episode 59",1996-11-36,"Kevin S. Bright","Jeff Greenstein, Jeff Strauss",27.1,7.9,28356,22,458661,46,10.4,23.2,83,99,0,0,"Gary Oldman, Reese Witherspoon",Regular,No,No,Yes,Medium
+3,12,60,"The One with Episode 60",1996-11-43,"Shelley Jensen","Adam Chase",23.1,8.3,52850,22,458662,6,31.1,17.2,73,87,0,0,"Danny DeVito, Sean Penn",Regular,No,No,No,Low
+3,13,61,"The One with Episode 61",1996-01-22,"Kevin S. Bright","David Crane",27.5,7.7,56139,22,458663,26,26.0,19.4,61,75,0,0,"Alec Baldwin",Regular,No,No,No,Low
+3,14,62,"The One with Episode 62",1996-01-29,"Pamela Fryman","Ira Ungerleider",21.1,7.6,23061,22,458664,32,28.5,16.7,99,80,0,0,"Alec Baldwin, Christina Applegate, Tom Selleck",Regular,No,No,No,Low
+3,15,63,"The One with Episode 63",1996-01-36,"Arlene Sanford","Adam Chase",25.5,8.5,58297,22,458665,26,29.3,7.3,90,72,0,0,"None",Regular,No,No,Yes,Medium
+3,16,64,"The One with Episode 64",1996-01-43,"Gail Mancuso","Ira Ungerleider",29.0,8.2,48991,22,458666,25,10.9,23.2,68,90,0,0,"None",Regular,No,No,No,Medium
+3,17,65,"The One with Episode 65",1996-02-22,"Peter Bonerz","Gregory S. Malins",23.5,7.7,15201,22,458667,50,19.5,22.6,95,88,1,0,"Julia Roberts, Gary Oldman",Regular,No,No,No,Medium
+3,18,66,"The One with Episode 66",1996-02-29,"Michael Lembeck","Ira Ungerleider, Jeffrey Astrof",25.6,8.8,14383,22,458668,14,10.8,11.6,65,91,0,0,"None",Regular,Yes,No,No,Low
+3,19,67,"The One with Episode 67",1996-02-36,"Arlene Sanford","Ira Ungerleider",24.4,8.9,38595,22,458669,10,14.5,18.6,88,80,1,0,"None",Regular,No,No,No,High
+3,20,68,"The One with Episode 68",1996-02-43,"Shelley Jensen","Marta Kauffman, David Crane",29.5,7.8,28867,22,458670,33,37.0,19.4,64,84,0,0,"None",Regular,No,No,No,Medium
+3,21,69,"The One with Episode 69",1996-03-22,"Gail Mancuso","David Crane",27.9,8.5,16405,22,458671,30,23.4,22.6,73,87,0,1,"None",Regular,No,No,No,Medium
+3,22,70,"The One with Episode 70",1996-03-29,"James Burrows","Alexa Junge",27.2,8.6,11631,22,458672,36,16.7,6.6,82,94,0,0,"None",Regular,No,No,No,Medium
+3,23,71,"The One with Episode 71",1996-03-36,"Ben Weiss","Mike Sikowitz",30.3,8.0,18277,22,458673,3,23.4,22.5,76,97,0,0,"None",Holiday Special,No,No,No,Low
+3,24,72,"The One with Episode 72",1996-03-43,"Shelley Jensen","Jeffrey Astrof",29.6,8.2,25963,22,458674,33,30.5,9.0,79,86,2,0,"Danny DeVito, Reese Witherspoon, Bruce Willis",Regular,No,No,No,High
+3,25,73,"The One with Episode 73",1996-04-22,"Kevin S. Bright","David Crane",21.1,8.0,32321,22,458675,36,25.4,9.0,72,78,3,0,"None",Season Finale,Yes,No,No,Low
+4,1,74,"The One with Episode 74",1997-09-22,"Ben Weiss","David Crane",26.0,8.9,41729,22,459651,50,10.1,8.7,82,97,0,0,"None",Season Premiere,No,No,No,Medium
+4,2,75,"The One with Episode 75",1997-09-29,"James Burrows","Jeff Greenstein",27.3,8.2,59010,22,459652,43,20.3,6.0,77,70,0,0,"Bruce Willis, Danny DeVito, Christina Applegate",Regular,No,No,No,Low
+4,3,76,"The One with Episode 76",1997-09-36,"Michael Lembeck","Jeff Greenstein",25.8,9.1,20688,22,459653,45,17.2,7.4,80,85,3,0,"None",Regular,No,No,No,Low
+4,4,77,"The One with Episode 77",1997-09-43,"Peter Bonerz","Jeffrey Astrof",25.7,8.5,44946,22,459654,20,32.9,24.3,88,90,0,0,"Julia Roberts",Regular,No,No,No,Medium
+4,5,78,"The One with Episode 78",1997-10-22,"Shelley Jensen","Marta Kauffman",28.8,8.1,18526,22,459655,12,20.5,14.5,91,85,0,0,"None",Regular,No,No,No,Medium
+4,6,79,"The One with Episode 79",1997-10-29,"Michael Lembeck","Ira Ungerleider",25.3,8.5,57952,22,459656,17,37.6,11.4,63,92,0,0,"Tom Selleck, Danny DeVito",Regular,No,No,No,High
+4,7,80,"The One with Episode 80",1997-10-36,"Peter Bonerz","Jeff Strauss",28.6,8.5,10021,22,459657,10,11.1,20.2,66,70,0,0,"None",Regular,No,No,No,Medium
+4,8,81,"The One with Episode 81",1997-10-43,"Gail Mancuso","Alexa Junge",19.8,8.2,45690,22,459658,17,11.3,10.3,60,89,0,0,"None",Regular,No,No,No,High
+4,9,82,"The One with Episode 82",1997-11-22,"Arlene Sanford","Adam Chase",28.5,8.2,50788,22,459659,24,39.7,17.2,99,82,0,0,"None",Regular,No,Yes,No,Medium
+4,10,83,"The One with Episode 83",1997-11-29,"Michael Lembeck","Ira Ungerleider, Jeff Greenstein",19.9,8.0,32154,22,459660,31,30.1,24.5,73,79,0,0,"None",Regular,No,No,No,Medium
+4,11,84,"The One with Episode 84",1997-11-36,"Gail Mancuso","Ira Ungerleider",25.3,7.9,12078,22,459661,32,31.5,20.6,99,73,0,0,"None",Regular,No,No,No,Medium
+4,12,85,"The One with Episode 85",1997-11-43,"Arlene Sanford","David Crane",19.6,8.5,32339,22,459662,48,22.5,12.8,64,80,0,0,"None",Regular,No,No,No,Medium
+4,13,86,"The One with Episode 86",1997-01-22,"Gary Halvorson","Mike Sikowitz",21.5,9.0,33080,22,459663,44,21.5,19.9,79,73,3,0,"None",Regular,No,No,No,Medium
+4,14,87,"The One with Episode 87",1997-01-29,"Shelley Jensen","Jeff Strauss",25.0,7.9,35162,22,459664,33,38.2,20.6,94,89,0,0,"None",Regular,No,No,No,Medium
+4,15,88,"The One with Episode 88",1997-01-36,"Gail Mancuso","Gregory S. Malins",21.8,9.2,51301,22,459665,2,22.7,11.8,97,75,0,0,"None",Regular,No,No,No,High
+4,16,89,"The One with Episode 89",1997-01-43,"James Burrows","Alexa Junge",24.1,8.4,20028,22,459666,33,32.2,11.2,92,83,0,0,"None",Regular,No,No,No,Medium
+4,17,90,"The One with Episode 90",1997-02-22,"Peter Bonerz","Mike Sikowitz",28.5,8.2,40053,22,459667,10,15.4,8.5,72,77,0,0,"Gary Oldman",Holiday Special,No,No,No,High
+4,18,91,"The One with Episode 91",1997-02-29,"Pamela Fryman","Jeffrey Astrof",19.4,7.8,14598,22,459668,5,27.5,8.5,95,90,0,0,"Gary Oldman, Bruce Willis, Reese Witherspoon",Regular,No,No,Yes,Low
+4,19,92,"The One with Episode 92",1997-02-36,"Arlene Sanford","Alexa Junge",28.0,8.8,29165,22,459669,14,20.6,21.7,61,88,0,0,"None",Holiday Special,No,No,Yes,Medium
+4,20,93,"The One with Episode 93",1997-02-43,"James Burrows","Gregory S. Malins, Mike Sikowitz",27.8,8.1,53324,22,459670,40,36.2,13.4,62,72,0,0,"None",Regular,No,Yes,No,Medium
+4,21,94,"The One with Episode 94",1997-03-22,"Shelley Jensen","Gregory S. Malins",22.8,8.8,11182,22,459671,39,34.7,12.8,79,81,1,1,"None",Regular,No,No,No,Medium
+4,22,95,"The One with Episode 95",1997-03-29,"Gail Mancuso","Gregory S. Malins",26.9,8.2,52205,22,459672,11,35.2,11.2,92,98,0,0,"None",Regular,No,No,No,Low
+4,23,96,"The One with Episode 96",1997-03-36,"Arlene Sanford","Jeffrey Astrof, Jeff Strauss",27.0,9.1,15354,22,459673,31,16.9,13.6,88,92,0,1,"Julia Roberts, Bruce Willis",Regular,No,No,Yes,Low
+4,24,97,"The One with Episode 97",1997-03-43,"Shelley Jensen","Jeff Strauss",29.1,8.9,52915,22,459674,45,15.8,17.0,69,83,0,0,"Bruce Willis, Tom Selleck",Season Finale,No,Yes,Yes,Low
+5,1,98,"The One with Episode 98",1998-09-22,"Shelley Jensen","Alexa Junge, Jeff Greenstein",25.2,8.0,42705,22,460651,31,36.4,22.0,80,81,0,0,"Danny DeVito, Tom Selleck",Season Premiere,No,No,No,Medium
+5,2,99,"The One with Episode 99",1998-09-29,"Shelley Jensen","Gregory S. Malins",23.1,9.1,59983,22,460652,2,13.9,5.5,96,72,0,0,"None",Regular,No,No,No,Low
+5,3,100,"The One with Episode 100",1998-09-36,"Kevin S. Bright","Adam Chase",19.6,8.7,20390,22,460653,40,21.2,22.7,77,93,0,0,"Gary Oldman, Julia Roberts",Regular,Yes,No,No,Medium
+5,4,101,"The One with Episode 101",1998-09-43,"Arlene Sanford","Alexa Junge",28.3,9.1,20292,22,460654,24,36.5,13.5,95,76,0,0,"None",Regular,No,Yes,No,High
+5,5,102,"The One with Episode 102",1998-10-22,"Gary Halvorson","Alexa Junge",20.8,8.5,53644,22,460655,49,16.2,6.9,97,96,0,0,"None",Regular,No,No,Yes,High
+5,6,103,"The One with Episode 103",1998-10-29,"Arlene Sanford","Alexa Junge",23.6,7.9,19495,22,460656,10,37.4,14.4,68,87,0,0,"Reese Witherspoon, Bruce Willis",Regular,No,No,No,Medium
+5,7,104,"The One with Episode 104",1998-10-36,"Gail Mancuso","David Crane",22.4,9.1,42125,22,460657,1,20.9,24.8,77,94,0,0,"None",Regular,No,No,No,High
+5,8,105,"The One with Episode 105",1998-10-43,"Shelley Jensen","Adam Chase, David Crane",21.1,8.0,39472,22,460658,15,16.1,15.4,65,85,0,0,"Julia Roberts, Tom Selleck",Regular,No,Yes,No,Low
+5,9,106,"The One with Episode 106",1998-11-22,"Shelley Jensen","Mike Sikowitz",23.1,8.2,42313,22,460659,46,19.0,23.0,74,80,0,0,"None",Regular,No,No,No,Medium
+5,10,107,"The One with Episode 107",1998-11-29,"Kevin S. Bright","Jeff Strauss",21.4,8.2,18820,22,460660,46,30.2,24.5,60,70,0,0,"None",Regular,No,No,No,High
+5,11,108,"The One with Episode 108",1998-11-36,"Kevin S. Bright","Jeffrey Astrof, Mike Sikowitz",20.0,9.0,58735,22,460661,43,31.3,6.7,72,88,1,0,"None",Regular,No,Yes,No,Medium
+5,12,109,"The One with Episode 109",1998-11-43,"James Burrows","Jeffrey Astrof",28.4,8.4,15514,22,460662,41,34.9,9.4,66,72,0,0,"Christina Applegate, Brad Pitt, Alec Baldwin",Regular,No,No,No,Medium
+5,13,110,"The One with Episode 110",1998-01-22,"Gail Mancuso","Mike Sikowitz",28.5,8.9,24965,22,460663,13,30.7,8.4,98,97,0,0,"None",Holiday Special,No,Yes,No,Medium
+5,14,111,"The One with Episode 111",1998-01-29,"Gail Mancuso","Adam Chase",28.2,8.1,55699,22,460664,48,23.3,19.7,71,84,0,0,"None",Regular,No,No,No,High
+5,15,112,"The One with Episode 112",1998-01-36,"Gary Halvorson","Jeff Greenstein",25.1,9.1,24552,22,460665,35,31.0,9.9,71,89,0,0,"None",Regular,No,No,Yes,Medium
+5,16,113,"The One with Episode 113",1998-01-43,"Peter Bonerz","Jeffrey Astrof",23.3,9.3,26512,22,460666,1,14.4,22.8,95,90,0,0,"Alec Baldwin, Bruce Willis",Regular,No,No,No,Low
+5,17,114,"The One with Episode 114",1998-02-22,"Shelley Jensen","Mike Sikowitz",19.1,9.3,16568,22,460667,18,24.0,20.3,99,97,0,0,"None",Regular,No,No,No,Medium
+5,18,115,"The One with Episode 115",1998-02-29,"Shelley Jensen","Ira Ungerleider",26.6,8.1,54842,22,460668,24,29.6,10.9,74,91,0,0,"None",Regular,No,No,No,Low
+5,19,116,"The One with Episode 116",1998-02-36,"Pamela Fryman","Adam Chase",27.8,8.9,40155,22,460669,40,15.7,14.0,85,83,2,0,"Sean Penn",Regular,No,No,No,Low
+5,20,117,"The One with Episode 117",1998-02-43,"Kevin S. Bright","Mike Sikowitz, Gregory S. Malins",23.8,8.1,30541,22,460670,5,30.8,5.3,82,79,3,0,"Tom Selleck, Christina Applegate",Regular,No,No,No,High
+5,21,118,"The One with Episode 118",1998-03-22,"Pamela Fryman","Gregory S. Malins",19.3,8.8,55865,22,460671,47,24.6,22.9,75,85,1,0,"Gary Oldman, Reese Witherspoon",Regular,No,No,No,Low
+5,22,119,"The One with Episode 119",1998-03-29,"Gail Mancuso","Gregory S. Malins",22.4,8.8,31578,22,460672,9,36.5,20.9,88,75,2,0,"None",Regular,Yes,No,No,Low
+5,23,120,"The One with Episode 120",1998-03-36,"Peter Bonerz","Jeff Strauss",28.0,9.0,21960,22,460673,38,36.1,16.2,79,93,3,0,"None",Regular,No,No,No,Low
+5,24,121,"The One with Episode 121",1998-03-43,"Arlene Sanford","Marta Kauffman, Gregory S. Malins",20.7,8.6,59373,22,460674,31,34.6,5.9,76,89,0,0,"None",Season Finale,No,No,No,Low
+6,1,122,"The One with Episode 122",1999-09-22,"Ben Weiss","Adam Chase",20.2,8.6,51577,22,461651,33,34.9,11.9,99,93,0,0,"Reese Witherspoon, Tom Selleck",Season Premiere,No,No,No,Low
+6,2,123,"The One with Episode 123",1999-09-29,"Gary Halvorson","Gregory S. Malins, Alexa Junge",20.0,8.5,33516,22,461652,33,34.9,11.9,74,75,0,0,"None",Regular,No,No,No,Medium
+6,3,124,"The One with Episode 124",1999-09-36,"Peter Bonerz","Jeffrey Astrof",22.8,9.1,32902,22,461653,5,25.8,21.5,77,74,0,0,"Bruce Willis, Julia Roberts, Brad Pitt",Regular,No,No,No,High
+6,4,125,"The One with Episode 125",1999-09-43,"Michael Lembeck","Alexa Junge, Adam Chase",23.4,8.6,12690,22,461654,11,28.0,15.5,73,95,0,1,"None",Regular,No,No,No,Low
+6,5,126,"The One with Episode 126",1999-10-22,"Arlene Sanford","David Crane",25.7,8.3,24394,22,461655,14,22.3,18.2,75,72,3,0,"None",Regular,No,Yes,No,Medium
+6,6,127,"The One with Episode 127",1999-10-29,"Pamela Fryman","Mike Sikowitz, Gregory S. Malins",29.2,8.1,59054,22,461656,7,20.0,9.0,77,75,0,0,"None",Regular,No,No,Yes,Medium
+6,7,128,"The One with Episode 128",1999-10-36,"Peter Bonerz","David Crane",24.5,9.1,16316,22,461657,1,21.0,12.5,64,76,0,0,"Brad Pitt, Christina Applegate",Regular,No,Yes,No,Low
+6,8,129,"The One with Episode 129",1999-10-43,"Pamela Fryman","Mike Sikowitz",21.1,8.1,37622,22,461658,8,39.5,18.2,91,86,0,0,"Christina Applegate",Regular,No,No,No,Medium
+6,9,130,"The One with Episode 130",1999-11-22,"Gary Halvorson","Gregory S. Malins",23.9,9.0,50453,22,461659,24,12.7,18.4,89,96,0,0,"None",Regular,No,No,No,Medium
+6,10,131,"The One with Episode 131",1999-11-29,"James Burrows","Jeffrey Astrof",27.2,8.2,42342,22,461660,27,14.5,11.0,79,78,0,0,"None",Regular,No,No,No,Medium
+6,11,132,"The One with Episode 132",1999-11-36,"Peter Bonerz","David Crane",27.0,7.7,37995,22,461661,6,22.6,13.4,82,93,0,0,"None",Regular,No,No,No,High
+6,12,133,"The One with Episode 133",1999-11-43,"Ben Weiss","David Crane",26.7,8.8,18390,22,461662,4,17.6,23.8,98,95,3,0,"None",Regular,No,No,No,Medium
+6,13,134,"The One with Episode 134",1999-01-22,"Shelley Jensen","Adam Chase, David Crane",24.6,8.7,44145,22,461663,7,19.5,5.7,91,94,0,0,"None",Regular,No,No,No,Low
+6,14,135,"The One with Episode 135",1999-01-29,"Gary Halvorson","Mike Sikowitz, Jeff Strauss",22.0,7.7,35160,22,461664,6,23.2,15.5,90,88,0,0,"Brad Pitt",Regular,No,No,No,Medium
+6,15,136,"The One with Episode 136",1999-01-36,"Pamela Fryman","Ira Ungerleider",19.6,8.4,11204,22,461665,28,31.6,18.4,92,89,0,0,"None",Regular,No,No,No,Medium
+6,16,137,"The One with Episode 137",1999-01-43,"Peter Bonerz","Adam Chase",29.3,7.8,29962,22,461666,48,33.0,6.2,71,86,0,0,"None",Regular,No,No,No,Medium
+6,17,138,"The One with Episode 138",1999-02-22,"Ben Weiss","Jeffrey Astrof",25.1,9.1,16362,22,461667,34,39.9,22.2,86,80,0,0,"Danny DeVito",Regular,No,No,No,Medium
+6,18,139,"The One with Episode 139",1999-02-29,"Pamela Fryman","Adam Chase",25.7,8.4,31454,22,461668,16,22.0,21.3,94,70,0,0,"None",Regular,No,No,No,Low
+6,19,140,"The One with Episode 140",1999-02-36,"James Burrows","Mike Sikowitz",26.2,8.3,28065,22,461669,41,28.8,15.4,81,76,0,0,"Brad Pitt, Danny DeVito",Regular,No,No,No,Low
+6,20,141,"The One with Episode 141",1999-02-43,"James Burrows","Adam Chase, Gregory S. Malins",23.4,8.7,49774,22,461670,6,37.4,16.1,96,90,0,0,"Gary Oldman, Reese Witherspoon",Regular,No,No,No,Low
+6,21,142,"The One with Episode 142",1999-03-22,"Pamela Fryman","Alexa Junge",25.4,8.7,31356,22,461671,15,15.1,20.5,89,94,0,0,"Sean Penn",Regular,No,No,No,Medium
+6,22,143,"The One with Episode 143",1999-03-29,"Arlene Sanford","Jeff Strauss",28.6,9.1,47292,22,461672,27,10.4,23.6,64,89,0,0,"None",Regular,No,No,No,Low
+6,23,144,"The One with Episode 144",1999-03-36,"James Burrows","Gregory S. Malins, Jeffrey Astrof",22.8,8.3,47301,22,461673,26,35.6,15.4,61,98,0,0,"Alec Baldwin, Sean Penn, Danny DeVito",Regular,No,No,No,Low
+6,24,145,"The One with Episode 145",1999-03-43,"Peter Bonerz","Alexa Junge",27.8,8.1,43087,22,461674,28,18.1,10.3,61,94,2,0,"None",Holiday Special,No,No,No,Medium
+6,25,146,"The One with Episode 146",1999-04-22,"Arlene Sanford","David Crane",24.7,8.5,35473,22,461675,28,23.8,6.2,91,76,0,0,"Gary Oldman, Tom Selleck",Season Finale,No,No,No,Medium
+7,1,147,"The One with Episode 147",2000-09-22,"Michael Lembeck","Jeff Greenstein, Jeff Strauss",19.9,8.4,41210,22,462651,45,27.3,21.7,92,82,0,0,"None",Season Premiere,No,No,No,High
+7,2,148,"The One with Episode 148",2000-09-29,"Pamela Fryman","Jeffrey Astrof, David Crane",19.2,8.1,21256,22,462652,40,10.3,21.5,74,98,2,0,"None",Regular,No,No,Yes,High
+7,3,149,"The One with Episode 149",2000-09-36,"Pamela Fryman","Gregory S. Malins, Adam Chase",23.7,7.7,29120,22,462653,49,14.4,7.4,67,73,3,0,"Danny DeVito, Alec Baldwin, Gary Oldman",Regular,No,No,No,Medium
+7,4,150,"The One with Episode 150",2000-09-43,"Michael Lembeck","Adam Chase",20.5,7.8,33410,22,462654,33,24.4,20.8,84,87,0,0,"Alec Baldwin",Regular,No,Yes,No,High
+7,5,151,"The One with Episode 151",2000-10-22,"Arlene Sanford","Adam Chase, Gregory S. Malins",24.0,7.8,50737,22,462655,21,38.4,10.3,76,79,1,0,"None",Regular,No,No,Yes,Low
+7,6,152,"The One with Episode 152",2000-10-29,"Ben Weiss","Jeff Strauss, Marta Kauffman",19.7,8.7,19450,22,462656,22,15.8,17.4,93,70,0,1,"None",Regular,Yes,No,No,Medium
+7,7,153,"The One with Episode 153",2000-10-36,"Ben Weiss","Alexa Junge, Jeffrey Astrof",23.8,8.7,57583,22,462657,26,22.9,21.1,66,78,1,0,"None",Regular,No,No,No,High
+7,8,154,"The One with Episode 154",2000-10-43,"Peter Bonerz","Jeff Greenstein",24.6,8.5,48383,22,462658,48,18.0,19.3,86,72,0,0,"None",Regular,No,No,No,Medium
+7,9,155,"The One with Episode 155",2000-11-22,"Pamela Fryman","Alexa Junge, Jeff Strauss",19.8,7.8,35976,22,462659,8,29.8,7.7,85,91,0,0,"Danny DeVito, Bruce Willis",Regular,No,No,No,High
+7,10,156,"The One with Episode 156",2000-11-29,"Pamela Fryman","Mike Sikowitz, Adam Chase",23.6,8.2,31615,22,462660,36,26.4,10.5,68,94,0,0,"Danny DeVito, Alec Baldwin",Regular,No,No,No,Low
+7,11,157,"The One with Episode 157",2000-11-36,"Michael Lembeck","David Crane",26.9,8.2,32324,22,462661,27,16.4,12.3,69,77,0,0,"Bruce Willis",Regular,No,No,No,Low
+7,12,158,"The One with Episode 158",2000-11-43,"Kevin S. Bright","Jeff Greenstein",25.2,7.6,43375,22,462662,40,17.5,18.4,84,90,0,0,"None",Regular,No,No,No,Medium
+7,13,159,"The One with Episode 159",2000-01-22,"Gary Halvorson","Marta Kauffman",18.7,8.4,40002,22,462663,19,23.1,6.6,85,86,0,0,"None",Regular,No,No,No,High
+7,14,160,"The One with Episode 160",2000-01-29,"Ben Weiss","Alexa Junge",22.8,7.6,15523,22,462664,38,19.4,20.5,90,84,1,0,"None",Regular,No,No,Yes,High
+7,15,161,"The One with Episode 161",2000-01-36,"Gary Halvorson","Marta Kauffman",23.5,8.1,26333,22,462665,46,12.8,11.0,62,70,0,0,"Bruce Willis",Regular,No,No,No,Medium
+7,16,162,"The One with Episode 162",2000-01-43,"Ben Weiss","Jeff Greenstein",20.3,8.3,10797,22,462666,48,33.4,11.9,73,91,0,0,"None",Regular,No,No,No,Low
+7,17,163,"The One with Episode 163",2000-02-22,"Gail Mancuso","Jeff Strauss",18.7,8.5,33578,22,462667,13,16.3,14.1,98,88,0,0,"None",Regular,Yes,No,No,Medium
+7,18,164,"The One with Episode 164",2000-02-29,"Peter Bonerz","Marta Kauffman",21.0,7.7,44922,22,462668,38,19.5,17.7,79,70,0,0,"None",Regular,No,No,No,High
+7,19,165,"The One with Episode 165",2000-02-36,"Shelley Jensen","Ira Ungerleider",26.4,7.9,42032,22,462669,5,38.8,10.5,88,99,0,0,"None",Holiday Special,No,No,No,High
+7,20,166,"The One with Episode 166",2000-02-43,"Shelley Jensen","Jeff Strauss",27.8,7.8,26828,22,462670,18,21.1,13.9,74,96,0,0,"None",Regular,No,No,No,Medium
+7,21,167,"The One with Episode 167",2000-03-22,"Ben Weiss","Ira Ungerleider",20.7,8.3,10976,22,462671,45,10.8,9.9,90,96,0,0,"Christina Applegate, Julia Roberts",Regular,No,No,No,Low
+7,22,168,"The One with Episode 168",2000-03-29,"Peter Bonerz","Ira Ungerleider, Adam Chase",19.2,8.5,48227,22,462672,13,15.1,20.3,65,87,0,0,"Julia Roberts, Bruce Willis",Regular,No,No,No,Medium
+7,23,169,"The One with Episode 169",2000-03-36,"Peter Bonerz","Mike Sikowitz",19.3,8.1,57482,22,462673,15,38.4,16.7,93,86,0,0,"None",Regular,No,No,No,Medium
+7,24,170,"The One with Episode 170",2000-03-43,"Michael Lembeck","Jeff Greenstein",18.2,8.9,49792,22,462674,44,31.7,17.1,67,99,0,0,"None",Season Finale,No,Yes,No,Low
+8,1,171,"The One with Episode 171",2001-09-22,"James Burrows","Marta Kauffman, Jeff Strauss",27.2,7.9,24146,22,463651,27,14.4,22.5,68,99,0,0,"Brad Pitt, Tom Selleck, Alec Baldwin",Season Premiere,No,No,No,Medium
+8,2,172,"The One with Episode 172",2001-09-29,"Arlene Sanford","Mike Sikowitz",22.1,9.0,49294,22,463652,39,36.1,13.9,65,92,0,0,"None",Regular,No,No,No,Medium
+8,3,173,"The One with Episode 173",2001-09-36,"Gary Halvorson","Marta Kauffman",28.2,8.4,42504,22,463653,50,28.1,16.5,83,99,0,0,"Gary Oldman",Regular,No,No,No,Medium
+8,4,174,"The One with Episode 174",2001-09-43,"Michael Lembeck","Mike Sikowitz",22.4,8.4,42897,22,463654,20,17.6,14.4,82,72,0,0,"None",Regular,No,No,No,Low
+8,5,175,"The One with Episode 175",2001-10-22,"Michael Lembeck","Marta Kauffman",19.5,8.1,39058,22,463655,44,12.2,21.7,71,90,0,0,"None",Regular,No,No,No,Low
+8,6,176,"The One with Episode 176",2001-10-29,"Ben Weiss","Adam Chase",19.7,8.3,33092,22,463656,20,19.5,17.2,78,93,0,0,"None",Regular,No,No,No,High
+8,7,177,"The One with Episode 177",2001-10-36,"Kevin S. Bright","David Crane",28.8,8.3,37375,22,463657,30,36.1,18.8,70,77,2,0,"None",Holiday Special,No,Yes,No,Low
+8,8,178,"The One with Episode 178",2001-10-43,"Shelley Jensen","David Crane",19.7,8.8,59405,22,463658,34,12.3,15.1,86,83,0,0,"None",Regular,No,No,No,Medium
+8,9,179,"The One with Episode 179",2001-11-22,"Gary Halvorson","Ira Ungerleider",19.5,8.2,22024,22,463659,11,38.0,17.0,62,70,0,0,"None",Regular,No,No,No,High
+8,10,180,"The One with Episode 180",2001-11-29,"Shelley Jensen","Mike Sikowitz",24.3,9.0,56887,22,463660,23,15.5,20.7,91,80,0,0,"None",Regular,No,No,No,Low
+8,11,181,"The One with Episode 181",2001-11-36,"Shelley Jensen","Mike Sikowitz",21.4,8.3,10882,22,463661,4,19.5,23.7,95,70,0,0,"Bruce Willis",Regular,No,No,No,High
+8,12,182,"The One with Episode 182",2001-11-43,"Gary Halvorson","Ira Ungerleider",21.7,8.3,43753,22,463662,49,26.7,21.8,92,93,0,0,"None",Holiday Special,No,No,No,Medium
+8,13,183,"The One with Episode 183",2001-01-22,"Shelley Jensen","Gregory S. Malins",22.2,7.8,13652,22,463663,38,11.2,12.7,86,92,1,0,"None",Regular,No,Yes,No,Low
+8,14,184,"The One with Episode 184",2001-01-29,"Peter Bonerz","David Crane, Ira Ungerleider",23.0,8.6,46919,22,463664,44,35.0,14.9,74,79,0,0,"Alec Baldwin, Gary Oldman, Danny DeVito",Regular,No,Yes,No,High
+8,15,185,"The One with Episode 185",2001-01-36,"Gary Halvorson","Gregory S. Malins, Alexa Junge",28.0,7.9,56267,22,463665,44,16.6,13.0,64,73,0,0,"Sean Penn, Danny DeVito, Bruce Willis",Regular,No,No,No,Medium
+8,16,186,"The One with Episode 186",2001-01-43,"Kevin S. Bright","Jeff Greenstein, Jeffrey Astrof",24.8,7.9,48048,22,463666,49,36.7,7.8,65,73,0,0,"None",Regular,No,No,No,Low
+8,17,187,"The One with Episode 187",2001-02-22,"Gary Halvorson","Marta Kauffman, Alexa Junge",25.2,8.9,11475,22,463667,17,17.7,18.5,96,97,0,0,"None",Regular,No,No,No,Low
+8,18,188,"The One with Episode 188",2001-02-29,"Pamela Fryman","Gregory S. Malins",27.2,8.2,58130,22,463668,33,39.5,10.6,95,98,0,0,"None",Regular,No,No,No,Medium
+8,19,189,"The One with Episode 189",2001-02-36,"Michael Lembeck","Jeff Strauss",21.5,7.9,11362,22,463669,41,20.4,5.4,96,92,0,0,"None",Regular,No,No,No,High
+8,20,190,"The One with Episode 190",2001-02-43,"Shelley Jensen","Gregory S. Malins",19.8,8.3,57970,22,463670,23,18.1,9.1,78,86,0,0,"Brad Pitt, Julia Roberts",Regular,No,No,No,High
+8,21,191,"The One with Episode 191",2001-03-22,"James Burrows","Jeff Greenstein",27.3,8.9,50372,22,463671,24,17.6,17.3,63,70,0,0,"None",Regular,No,Yes,No,Medium
+8,22,192,"The One with Episode 192",2001-03-29,"Pamela Fryman","Jeffrey Astrof",28.2,9.0,17550,22,463672,26,15.6,5.0,83,81,0,0,"None",Regular,No,No,No,Low
+8,23,193,"The One with Episode 193",2001-03-36,"Arlene Sanford","Alexa Junge",29.0,7.9,18214,22,463673,38,35.9,21.4,67,88,0,0,"None",Regular,No,No,No,Medium
+8,24,194,"The One with Episode 194",2001-03-43,"Gail Mancuso","Marta Kauffman",21.7,8.4,59399,22,463674,44,30.5,11.5,87,99,0,0,"None",Season Finale,No,No,No,Medium
+9,1,195,"The One with Episode 195",2002-09-22,"James Burrows","Marta Kauffman",28.0,8.9,14426,22,464651,46,21.6,5.3,77,83,1,0,"None",Season Premiere,No,No,No,Low
+9,2,196,"The One with Episode 196",2002-09-29,"Kevin S. Bright","Marta Kauffman",22.6,8.3,41012,22,464652,38,15.2,21.0,82,92,2,0,"Julia Roberts, Reese Witherspoon",Regular,No,No,No,Medium
+9,3,197,"The One with Episode 197",2002-09-36,"Ben Weiss","David Crane, Ira Ungerleider",18.4,8.1,27460,22,464653,40,16.4,12.8,69,71,0,0,"None",Regular,No,No,No,High
+9,4,198,"The One with Episode 198",2002-09-43,"Michael Lembeck","Alexa Junge",21.8,9.0,22478,22,464654,10,27.8,8.7,76,98,0,1,"None",Regular,No,No,No,Low
+9,5,199,"The One with Episode 199",2002-10-22,"Michael Lembeck","Mike Sikowitz",19.0,8.9,32698,22,464655,25,22.7,19.8,98,70,0,0,"None",Regular,No,No,No,Medium
+9,6,200,"The One with Episode 200",2002-10-29,"Shelley Jensen","Marta Kauffman, Jeff Strauss",26.4,9.0,24764,22,464656,31,15.2,19.6,79,89,0,0,"Julia Roberts",Regular,No,No,No,Medium
+9,7,201,"The One with Episode 201",2002-10-36,"Arlene Sanford","Ira Ungerleider",21.3,8.0,52182,22,464657,32,10.2,9.0,90,95,0,0,"None",Regular,No,No,No,High
+9,8,202,"The One with Episode 202",2002-10-43,"Michael Lembeck","Jeff Strauss",25.1,7.9,42913,22,464658,10,36.6,15.4,65,79,3,0,"None",Regular,No,No,No,High
+9,9,203,"The One with Episode 203",2002-11-22,"Arlene Sanford","Ira Ungerleider",26.7,8.9,35833,22,464659,9,25.4,16.5,66,97,0,0,"None",Regular,No,No,Yes,Low
+9,10,204,"The One with Episode 204",2002-11-29,"Shelley Jensen","Adam Chase",25.8,7.8,23999,22,464660,14,25.3,10.4,62,92,0,0,"None",Regular,No,No,No,High
+9,11,205,"The One with Episode 205",2002-11-36,"Ben Weiss","Alexa Junge",21.4,9.0,46577,22,464661,19,16.2,17.6,90,75,0,0,"None",Regular,No,No,No,Low
+9,12,206,"The One with Episode 206",2002-11-43,"Shelley Jensen","Marta Kauffman, Jeff Greenstein",27.0,8.5,37358,22,464662,46,17.4,16.3,90,98,3,0,"Christina Applegate, Tom Selleck",Holiday Special,No,No,No,Low
+9,13,207,"The One with Episode 207",2002-01-22,"Arlene Sanford","Jeff Greenstein",19.9,8.6,16026,22,464663,44,13.2,9.7,83,86,3,0,"None",Regular,No,No,No,Medium
+9,14,208,"The One with Episode 208",2002-01-29,"Kevin S. Bright","Alexa Junge",24.7,8.6,19497,22,464664,29,38.0,11.8,82,83,0,0,"None",Regular,No,No,No,High
+9,15,209,"The One with Episode 209",2002-01-36,"Gary Halvorson","Marta Kauffman, Gregory S. Malins",28.1,8.6,27958,22,464665,50,10.9,12.2,82,87,3,0,"None",Regular,No,No,No,Low
+9,16,210,"The One with Episode 210",2002-01-43,"Shelley Jensen","Ira Ungerleider",24.1,8.3,50743,22,464666,21,24.7,20.9,75,92,0,0,"None",Regular,No,No,No,Medium
+9,17,211,"The One with Episode 211",2002-02-22,"Michael Lembeck","Mike Sikowitz, Marta Kauffman",25.8,8.1,39966,22,464667,21,29.6,10.9,61,99,0,0,"Bruce Willis",Regular,No,No,No,Medium
+9,18,212,"The One with Episode 212",2002-02-29,"Kevin S. Bright","Jeffrey Astrof",18.6,7.8,56626,22,464668,23,37.1,8.4,63,75,0,0,"Christina Applegate",Regular,No,No,No,High
+9,19,213,"The One with Episode 213",2002-02-36,"Arlene Sanford","Alexa Junge",27.6,8.3,12953,22,464669,12,15.1,10.0,89,99,0,0,"None",Regular,No,No,No,Low
+9,20,214,"The One with Episode 214",2002-02-43,"Arlene Sanford","David Crane",23.4,9.0,27380,22,464670,11,37.2,20.3,82,83,0,0,"None",Regular,No,No,Yes,Medium
+9,21,215,"The One with Episode 215",2002-03-22,"Peter Bonerz","Alexa Junge, Marta Kauffman",19.1,9.1,49762,22,464671,15,15.6,23.2,87,77,0,0,"None",Regular,No,No,No,Medium
+9,22,216,"The One with Episode 216",2002-03-29,"Shelley Jensen","Ira Ungerleider",26.3,8.6,55027,22,464672,29,14.9,9.0,81,91,2,0,"None",Regular,No,No,No,Low
+9,23,217,"The One with Episode 217",2002-03-36,"Peter Bonerz","Jeff Greenstein",18.6,8.5,39265,22,464673,26,39.9,18.9,68,76,0,0,"None",Regular,No,No,No,Medium
+9,24,218,"The One with Episode 218",2002-03-43,"Kevin S. Bright","Jeff Strauss",25.1,8.6,23529,22,464674,39,28.8,14.1,61,74,0,0,"None",Season Finale,No,No,No,Low
+10,1,219,"The One with Episode 219",2003-09-22,"Peter Bonerz","David Crane",32.0,8.9,10953,22,465651,15,30.0,5.2,64,96,0,0,"None",Season Premiere,No,No,No,High
+10,2,220,"The One with Episode 220",2003-09-29,"Kevin S. Bright","Ira Ungerleider",33.0,9.5,45483,22,465652,35,25.6,17.1,71,92,0,1,"None",Regular,No,No,No,Low
+10,3,221,"The One with Episode 221",2003-09-36,"Gary Halvorson","Jeff Greenstein",25.9,9.1,39174,22,465653,4,15.0,17.9,98,79,0,0,"Alec Baldwin",Regular,No,No,No,High
+10,4,222,"The One with Episode 222",2003-09-43,"Gary Halvorson","David Crane",31.4,8.3,50610,22,465654,20,17.3,11.9,72,77,0,0,"None",Regular,No,No,No,Low
+10,5,223,"The One with Episode 223",2003-10-22,"Michael Lembeck","David Crane",25.2,9.3,15551,22,465655,50,32.2,5.5,95,90,0,0,"None",Regular,No,Yes,No,Medium
+10,6,224,"The One with Episode 224",2003-10-29,"Peter Bonerz","Jeff Greenstein",27.2,9.5,10346,22,465656,21,26.0,21.1,97,84,0,0,"None",Regular,No,No,No,High
+10,7,225,"The One with Episode 225",2003-10-36,"Arlene Sanford","Mike Sikowitz",30.4,8.9,25889,22,465657,25,25.4,13.5,73,84,0,0,"None",Regular,Yes,No,No,High
+10,8,226,"The One with Episode 226",2003-10-43,"Ben Weiss","Adam Chase, Jeffrey Astrof",28.6,9.3,52667,22,465658,31,14.1,17.9,98,91,0,0,"None",Regular,No,No,No,Low
+10,9,227,"The One with Episode 227",2003-11-22,"Gail Mancuso","Gregory S. Malins",28.6,9.1,57996,22,465659,18,39.3,18.8,99,99,2,0,"None",Holiday Special,No,Yes,No,High
+10,10,228,"The One with Episode 228",2003-11-29,"Pamela Fryman","Adam Chase, Gregory S. Malins",32.1,8.5,18609,22,465660,36,32.1,19.5,67,86,0,0,"Brad Pitt, Sean Penn",Regular,No,No,No,High
+10,11,229,"The One with Episode 229",2003-11-36,"Kevin S. Bright","Mike Sikowitz",24.0,9.1,22447,22,465661,39,34.0,16.7,69,93,0,0,"None",Regular,No,No,No,Medium
+10,12,230,"The One with Episode 230",2003-11-43,"Gary Halvorson","Jeffrey Astrof, Jeff Greenstein",31.1,8.1,27241,22,465662,11,19.9,22.5,86,77,0,0,"None",Regular,No,No,No,Medium
+10,13,231,"The One with Episode 231",2003-01-22,"Shelley Jensen","Mike Sikowitz, Gregory S. Malins",27.2,8.7,24349,22,465663,32,13.1,16.8,72,82,0,0,"None",Regular,No,No,No,High
+10,14,232,"The One with Episode 232",2003-01-29,"Peter Bonerz","Mike Sikowitz",30.5,9.0,54083,22,465664,24,39.5,14.2,67,85,1,0,"None",Regular,No,No,Yes,Medium
+10,15,233,"The One with Episode 233",2003-01-36,"Pamela Fryman","Mike Sikowitz",28.2,8.6,28022,22,465665,18,11.9,18.2,68,77,0,0,"None",Regular,No,No,No,High
+10,16,234,"The One with Episode 234",2003-01-43,"Gary Halvorson","Alexa Junge",23.3,9.0,18778,22,465666,26,11.9,7.9,98,83,0,0,"None",Regular,No,No,No,Medium
+10,17,235,"The One with Episode 235",2003-02-22,"Michael Lembeck","David Crane",23.8,8.7,19027,22,465667,9,21.2,15.5,64,86,0,0,"None",Regular,No,No,Yes,High
+10,18,236,"The One with Episode 236",2003-02-29,"Pamela Fryman","Jeff Greenstein",27.4,8.4,54750,42,465668,50,21.9,23.5,80,91,0,0,"None",Season Finale,No,No,Yes,Medium
